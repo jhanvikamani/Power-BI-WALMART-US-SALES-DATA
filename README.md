@@ -34,18 +34,23 @@ MICROSOFT POWER BI
 
 ## DASHBOARD PREVIEW
 
+#### REVENUE DASHBOARD
 ![w 1](https://github.com/jhanvikamani/Power-BI-WALMART-US-SALES-DATA/assets/49193372/984a6c8f-031a-44ad-a29d-ab9ea3a004ad)
 
 
+#### SALES DASHBOARD
 ![w2](https://github.com/jhanvikamani/Power-BI-WALMART-US-SALES-DATA/assets/49193372/d4e47cbd-925c-4a08-8dd7-7399c3a5640b)
 
 
+#### COMPARISION BASED ON PRODUCT CATEGORY AND SUB CATEGORY DASHBOARD
 ![w3](https://github.com/jhanvikamani/Power-BI-WALMART-US-SALES-DATA/assets/49193372/8f1d7604-32fe-46f0-a129-0ec2f72ac1ac)
 
 
+#### COMPARISION BASED ON CUSTOMER SEGEMENT AND ORDER PRIORITY DASHBOARD
 ![w4](https://github.com/jhanvikamani/Power-BI-WALMART-US-SALES-DATA/assets/49193372/606fdc5b-1a39-4dc5-9841-7bce6bcf5cb6)
 
 
+#### SALES AND REVENUE PREDICTION DASHBOARD
 ![w5](https://github.com/jhanvikamani/Power-BI-WALMART-US-SALES-DATA/assets/49193372/7ca05fd3-b934-442b-b411-8d93abdda37b)
 
 
