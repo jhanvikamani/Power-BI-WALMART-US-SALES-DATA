@@ -25,12 +25,12 @@ The dashboard highlights key performance indicators (KPIs) such as top-selling p
 
 POWER BI
 
-## BUSINESS QUESTIONS 
+## DATA DRIVEN QUESTIONS 
 
-1.What is the total sales and revenue for the selected time period? 
-2.How does sales and revenue breakdown by product category, region, and customer segment? 
-3.How does sales and revenue compare between the current period and the previous period? 
-4.What is the forecast of sales and revenue for the next period based on historical data?
+1.What is the total sales and revenue for the selected time period? </br>
+2.How does sales and revenue breakdown by product category, region, and customer segment? </br>
+3.How does sales and revenue compare between the current period and the previous period? </br>
+4.What is the forecast of sales and revenue for the next period based on historical data? </br>
 
 DASHBOARD SN
 
