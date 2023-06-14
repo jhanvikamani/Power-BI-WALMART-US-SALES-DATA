@@ -23,7 +23,7 @@ The dashboard highlights key performance indicators (KPIs) such as top-selling p
 
 ## TOOL USED
 
-POWER BI
+MICROSOFT POWER BI
 
 ## DATA DRIVEN QUESTIONS 
 
