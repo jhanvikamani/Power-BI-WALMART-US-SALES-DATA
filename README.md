@@ -32,7 +32,25 @@ MICROSOFT POWER BI
 3.How does sales and revenue compare between the current period and the previous period? </br>
 4.What is the forecast of sales and revenue for the next period based on historical data? </br>
 
-DASHBOARD SN
+## DASHBOARD PREVIEW
+
+![w 1](https://github.com/jhanvikamani/Power-BI-WALMART-US-SALES-DATA/assets/49193372/984a6c8f-031a-44ad-a29d-ab9ea3a004ad)
+
+
+![w2](https://github.com/jhanvikamani/Power-BI-WALMART-US-SALES-DATA/assets/49193372/d4e47cbd-925c-4a08-8dd7-7399c3a5640b)
+
+
+![w3](https://github.com/jhanvikamani/Power-BI-WALMART-US-SALES-DATA/assets/49193372/8f1d7604-32fe-46f0-a129-0ec2f72ac1ac)
+
+
+![w4](https://github.com/jhanvikamani/Power-BI-WALMART-US-SALES-DATA/assets/49193372/606fdc5b-1a39-4dc5-9841-7bce6bcf5cb6)
+
+
+![w5](https://github.com/jhanvikamani/Power-BI-WALMART-US-SALES-DATA/assets/49193372/7ca05fd3-b934-442b-b411-8d93abdda37b)
+
+
+
+
 
 
 
